@@ -2,7 +2,13 @@
 <h3 align="center">A developer full-stack from Toulouse</h3>
 
 - 🔭 I’m currently working on [Lumen](https://github.com/WildCodeSchool-2024-02/toulouse-babyplace)
+  
+- 🚀 I am a huge fan of science fiction novels
 
+- ✨ You can view my professional background on my [LinkedIn profile](https://www.linkedin.com/in/ileana-saint-paul)
+
+- 🎯 Currently, I am learning React and Express.js
+  
 - 📫 How to reach me **ileana.saintpaul@gmail.com**
 
 #### 📊 GitHub Stats:
