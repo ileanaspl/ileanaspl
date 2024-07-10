@@ -5,9 +5,9 @@
   
 - 🚀 I am a huge fan of science fiction novels
 
-- ✨ You can view my professional background on my [LinkedIn profile](https://www.linkedin.com/in/ileana-saint-paul)
-
 - 🎯 Currently, I am learning React and Express.js
+
+- ✨ You can view my professional background on my [LinkedIn profile](https://www.linkedin.com/in/ileana-saint-paul)
   
 - 📫 How to reach me **ileana.saintpaul@gmail.com**
 
@@ -39,6 +39,13 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+#### 💻 Currently learning:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
