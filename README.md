@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ileana</h1>
-<h3 align="center">A developer full-stack from Toulouse</h3>
+<h3 align="center">A full stack developer from Toulouse</h3>
 
 - 🔭 I’m currently working on [Lumen](https://github.com/WildCodeSchool-2024-02/toulouse-babyplace)
   
